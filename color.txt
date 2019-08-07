@@ -7,3 +7,4 @@ red
 orange
 yellow pink
 strawberry
+black color
