@@ -1,4 +1,8 @@
 blue
 red
 orange
+yellow
+blue
+red
+orange
 yellow pink
